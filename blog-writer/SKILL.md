@@ -1,6 +1,6 @@
 ---
 name: blog-writer
-description: Write a complete, production-quality blog post. Use this skill when asked to write a blog post, article, guide, or tutorial. Mandatory workflow: research all relevant sources first (web, official docs, real examples), create an SVG cover image, write the post with proper frontmatter. Triggers on "write a blog post", "create an article", "write a guide about", "blog about", "new blog post".
+description: 'Write a complete, production-quality blog post. Use this skill when asked to write a blog post, article, guide, or tutorial. Mandatory workflow: research all relevant sources first (web, official docs, real examples), create an SVG cover image, write the post with proper frontmatter. Triggers on "write a blog post", "create an article", "write a guide about", "blog about", "new blog post".'
 ---
 
 # Blog Writer
